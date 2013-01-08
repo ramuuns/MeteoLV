@@ -23,4 +23,4 @@ MIT
 
 ## Pateicības un sveicieni
 
-Paldies @mrserge par pasviesto ideju un sveiciens LHMC kā arī meteo.lv izstrādātjiem :)
+Paldies @mrserge par pasviesto ideju un sveiciens LVĢMC kā arī meteo.lv izstrādātjiem :)
